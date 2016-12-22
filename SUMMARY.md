@@ -7,5 +7,6 @@
     * [第三节 创建图书的目录](gitbook/section3.md)
     * [第四节 使用book.json进行配置](gitbook/book.json.md)
     * [第五节 使用markdown语法写作](gitbook/markdown.md)
+    * [第五节 使用markdown语法写作](git/section2.md)
 * [结束](end/README.md)
 
